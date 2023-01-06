@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dammy
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Analytics, Data Science, and Data Engineering
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
