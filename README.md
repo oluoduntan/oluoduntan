@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwadamilola</h1>
+<h1 align="center">Hi 👋, I'm Olu</h1>
 <!-- <h3 align="center">A Computer Science major with a love for code, problem-solving, mathematics, and building software.</h3>-->
 
 - 🌱 I’m currently learning about API Development, Authentication, and Authorization.
